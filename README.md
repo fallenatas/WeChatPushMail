@@ -1,3 +1,4 @@
+# Now itchat is banned!!!
 # WeChatPushMail
 ## Realize WeChat Push by STMP
 ### Installation
