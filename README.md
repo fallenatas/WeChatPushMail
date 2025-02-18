@@ -1,4 +1,4 @@
-# Now itchat is banned!!!
+# Now itchat is banned!!! Fuck Tencent!!!
 # WeChatPushMail
 ## Realize WeChat Push by STMP
 ### Installation
